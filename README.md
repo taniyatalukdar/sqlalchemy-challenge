@@ -42,7 +42,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
         Filter by the station that has the greatest number of observations.
         Query the previous 12 months of TOBS data for that station.
         Plot the results as a histogram with bins=12, as the following image shows:       
-![alt text] (https://github.com/taniyatalukdar/sqlalchemy-challenge/blob/main/Images/station-histogram.jpg)
+![alt text](https://github.com/taniyatalukdar/sqlalchemy-challenge/blob/main/Images/station-histogram.jpg)
 
 5. Close your session.
 
